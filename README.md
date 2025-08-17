@@ -1,4 +1,15 @@
-# $ docker run --name awesome loki2001:latest
+<div align="center">
+
+```
+ _       _    _ ___   ___   ___   _       _           
+| |     | |  | |__ \ / _ \ / _ \ / |     | |          
+| | ___ | | _| |  ) | | | | | | | |   __| | _____   __
+| |/ _ \| |/ / | / /| | | | | | | |  / _` |/ _ \ \ / /
+| | (_) |   <| |/ /_| |_| | |_| | | | (_| |  __/\ V / 
+|_|\___/|_|\_\_|____|\___/ \___/|_|  \__,_|\___| \_/  
+```
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=System+Programming+Engineer;Full-Stack+Developer;Cross-Platform+Specialist;Real-time+Communication+Expert" alt="Typing SVG" />

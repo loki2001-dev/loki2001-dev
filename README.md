@@ -57,6 +57,11 @@
 ![Cross Platform](https://img.shields.io/badge/Cross%20Platform-FF6B35?style=for-the-badge&logo=electron&logoColor=white)
 ![XFS](https://img.shields.io/badge/XFS-0066CC?style=for-the-badge&logo=bank&logoColor=white)
 ![WOSA/XFS](https://img.shields.io/badge/WOSA%2FXFS-4169E1?style=for-the-badge&logo=creditcard&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 

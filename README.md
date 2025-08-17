@@ -17,7 +17,7 @@
 - Passionate developer focused on system programming and web technologies
 - Minimal MVP implementation for showcasing in portfolio
 - Building high-performance applications across multiple platforms
-- Specializing in real-time systems and cross-platform development (Windows, Linux, macOS, Android)
+- Specializing in real-time systems and cross-platform development (Non-RTOS, ThreadX, Windows, Linux, macOS, Android)
 - Real-time Communication: WebRTC and networking protocols
 
 ---

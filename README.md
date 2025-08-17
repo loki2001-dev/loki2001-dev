@@ -35,6 +35,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VideoToolbox](https://img.shields.io/badge/VideoToolbox-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)

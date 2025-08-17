@@ -75,6 +75,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 

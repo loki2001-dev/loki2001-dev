@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=System+Programming+Engineer;Full-Stack+Developer;Cross-Platform+Specialist;Real-time+Communication+Expert" alt="Typing SVG" />
 </div>
-
 ## About Me
 - Passionate developer focused on system programming and web technologies
 - Minimal MVP implementation for showcasing in portfolio

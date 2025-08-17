@@ -1,8 +1,15 @@
 # Hello World! I'm loki2001
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=System+Programming+Engineer;Full-Stack+Developer;Cross-Platform+Specialist;Real-time+Communication+Expert" alt="Typing SVG" />
+</div>
+
 ## About Me
-- Minimal MVP implementation for showcasing in portfolio
 - Passionate developer focused on system programming and web technologies
+- Minimal MVP implementation for showcasing in portfolio
+- Building high-performance applications across multiple platforms
+- Specializing in real-time systems and cross-platform development (Windows, Linux, macOS, Android)
+- Real-time Communication: WebRTC and networking protocols
 
 ---
 
@@ -25,6 +32,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ---
 

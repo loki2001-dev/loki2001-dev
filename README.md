@@ -64,6 +64,7 @@
 ![RTCP](https://img.shields.io/badge/RTCP-B22222?style=for-the-badge&logo=video&logoColor=white)
 ![SDP](https://img.shields.io/badge/SDP-4169E1?style=for-the-badge&logo=exchange&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0064A5?style=for-the-badge&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white)

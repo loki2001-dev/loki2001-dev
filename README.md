@@ -95,16 +95,6 @@
 
 ---
 
-## Current Projects
-- **_cpprest-api-gateway_**: API Gateway server with JSON routing and caching built using C++20 and cpprestsdk
-- **_cpprest-http-client-sdk_**: A high-performance, modern C++20 HTTP client SDK with sync, async, and coroutine support powered by Microsoft's cpprest library
-- **_loki-secure-sdk_**: Modern, modular C++20 SDK wrapping OpenSSL for cryptography, TLS, X.509 certificates, and secure communication
-- **_dpdk-firewall-agent_**: High-performance DPDK-based firewall with JSON blocklists for L3/L4 packet filtering in modern C++
-- **_system-metrics-visualization-agent_**: A lightweight C++ system metrics agent with Prometheus & Grafana integration for real-time monitoring of CPU, memory, disk, and network usage
-- **_smarthome-grpc-controller_**: Modular Smart Home Device Management and Control System implemented with C++17 and gRPC
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=loki2001-dev&color=brightgreen&style=flat-square)

@@ -9,15 +9,6 @@
  </pre>
 </div>
 
-## About Me
-- Passionate developer focused on system programming and web technologies
-- Minimal MVP implementation for showcasing in portfolio
-- Building high-performance applications across multiple platforms
-- Specializing in real-time systems and cross-platform development (Non-RTOS, ThreadX, Windows, Linux, macOS, Android)
-- Real-time Communication: WebRTC and networking protocols
-
----
-
 ## Tech Stack
 
 ### Programming Languages
@@ -84,6 +75,8 @@
 ![SOAP](https://img.shields.io/badge/SOAP-326CE5?style=for-the-badge&logo=soap&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-0064A5?style=for-the-badge&logo=grpc&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)

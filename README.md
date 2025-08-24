@@ -26,6 +26,8 @@
 
 ### Build & Scripting
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Meson](https://img.shields.io/badge/Meson-007800?style=for-the-badge&logo=meson&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-000000?style=for-the-badge&logo=ninja&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
